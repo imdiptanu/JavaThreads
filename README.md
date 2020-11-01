@@ -1,2 +1,2 @@
 # Thread using Java
-Multi-threading exercises using Java.
+Multi-threading/Concurrency exercises using Java.
